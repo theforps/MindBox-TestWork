@@ -24,15 +24,20 @@ public class Triangle : IShape
     public double CalculateArea()
     {
         double s = (_a + _b + _c) / 2;
+
+        if(IsRightTriangle())
+        {
+            Console.WriteLine("The triangle is rectangular");
+        }
         
         return Math.Sqrt(s * (s - _a) * (s - _b) * (s - _c));
     }
 
     public bool IsRightTriangle()
     {
-        double[] sides = new double[] { _a, _b, _c };
+        double[] sides = { _a, _b, _c };
         Array.Sort(sides);
 
-        return Math.Abs((sides[0] * sides[0] + sides[1] * sides[1]) - (sides[2] * sides[2])) < 1e-10;
+        return (sides[0] * sides[0]) == (sides[1] * sides[1] + sides[2] * sides[2]);
     }
 }
