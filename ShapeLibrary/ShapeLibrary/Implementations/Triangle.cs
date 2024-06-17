@@ -38,6 +38,6 @@ public class Triangle : IShape
         double[] sides = { _a, _b, _c };
         Array.Sort(sides);
 
-        return (sides[0] * sides[0]) == (sides[1] * sides[1] + sides[2] * sides[2]);
+        return (sides[2] * sides[2]) == (sides[1] * sides[1] + sides[0] * sides[0]);
     }
 }
