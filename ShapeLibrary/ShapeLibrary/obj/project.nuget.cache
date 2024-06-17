@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xY3UmpP2K6xvSa6b0CDriHzgsrYUM6u0h1dE/1yhoR7IjfgxB7PDcsZd85YZCKaNfu6IbxUDgrrcnTr2THwUow==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C_Sharp\\ShapeLibrary\\ShapeLibrary\\ShapeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

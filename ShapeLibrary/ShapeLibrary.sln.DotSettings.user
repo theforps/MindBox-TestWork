@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=812ee18b_002Db7de_002D4993_002Db730_002D7c6a8b70fc6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleAreaTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A1C67DCE-D45C-477C-9D00-A56BB5287AA2::net8.0::ShapeTests.CircleAreaTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A1C67DCE-D45C-477C-9D00-A56BB5287AA2::net8.0::ShapeTests.TriangleNotRightTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad0b052c_002D40ed_002D4a87_002Dac85_002Dfc89d114c66b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShapeTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A1C67DCE-D45C-477C-9D00-A56BB5287AA2::net8.0::ShapeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

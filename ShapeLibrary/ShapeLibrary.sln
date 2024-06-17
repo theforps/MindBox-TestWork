@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{A1C67DCE-D45C-477C-9D00-A56BB5287AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{5AC1DFF6-81BF-4E3B-BF5A-2DCCFD9601FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C67DCE-D45C-477C-9D00-A56BB5287AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C67DCE-D45C-477C-9D00-A56BB5287AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C67DCE-D45C-477C-9D00-A56BB5287AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C67DCE-D45C-477C-9D00-A56BB5287AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC1DFF6-81BF-4E3B-BF5A-2DCCFD9601FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC1DFF6-81BF-4E3B-BF5A-2DCCFD9601FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC1DFF6-81BF-4E3B-BF5A-2DCCFD9601FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC1DFF6-81BF-4E3B-BF5A-2DCCFD9601FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
